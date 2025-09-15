@@ -6,6 +6,7 @@ Bot WhatsApp ini dibuat dengan TypeScript dan menggunakan library [Baileys](http
 
 Untuk menambah atau mengembangkan perintah bot, Anda bisa langsung mengedit atau menambahkan kode di file `src/handlers/commands.ts`.
 
+
 ## ✨ Fitur Utama
 
 - Autentikasi QR Code & Pairing Code
@@ -16,6 +17,8 @@ Untuk menambah atau mengembangkan perintah bot, Anda bisa langsung mengedit atau
 - TypeScript support
 
 > **Catatan:** Fitur saat ini masih terbatas hanya untuk bot sederhana. Pengembangan lanjutan seperti broadcast/bulk message akan dilakukan ke depannya, atau Anda bisa melakukan pengembangan sendiri dari repo ini.
+
+Untuk menambah atau mengembangkan perintah bot, Anda bisa langsung mengedit atau menambahkan kode di file `src/handlers/commands.ts`.
 
 ## ⚡ Instalasi & Penggunaan
 
