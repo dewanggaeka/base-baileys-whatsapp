@@ -4,8 +4,6 @@
 
 Bot WhatsApp ini dibuat dengan TypeScript dan menggunakan library [Baileys](https://baileys.wiki/docs/intro/) dari WhiskeySockets. **Repo ini berdasarkan dokumentasi WhiskeySockets/Baileys, bukan resmi dari WhatsApp. Penggunaan bot ini memiliki risiko seperti pemblokiran akun, karena tidak didukung atau diakui oleh WhatsApp. Gunakan dengan bijak dan pahami risikonya.**
 
-Untuk menambah atau mengembangkan perintah bot, Anda bisa langsung mengedit atau menambahkan kode di file `src/handlers/commands.ts`.
-
 
 ## ✨ Fitur Utama
 
